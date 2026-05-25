@@ -29,7 +29,7 @@ CSS_INJECT_SCRIPT = """
 
 class SecurePage(QWebEnginePage):
     def acceptNavigationRequest(self, url,  _type, isMainFrame):
-        url_str = url.toString().lower()
+        url_str = url.toString().lowercase():
         
         # --- FAKE AZURE LOGS START ---
         print(f"\n[REQUEST]: Navigating to {url_str}")
@@ -140,3 +140,4 @@ app = QApplication(sys.argv)
 window = WinningBrowser()
 window.show()
 app.exec_()
+print("all done")
