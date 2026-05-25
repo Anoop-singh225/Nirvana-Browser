@@ -19,6 +19,7 @@
 - **⚡ Lightweight Footprint:** Optimized RAM management to run alongside heavy IDEs (VS Code/PyCharm).
 - **🛡️ Privacy Sovereign:** No data leaves your machine. Local-only history and cache encryption.
 - **📚 Scholar Toolkit:** One-click access to academic repositories and research documentation.
+- offline ai integration
 
 ---
 
