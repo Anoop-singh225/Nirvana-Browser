@@ -5,7 +5,7 @@
 ---
 
 ### 🖥️ Project Dashboard
-| Component | Status | Tech Stack |
+| Component | Status | Tech Stack 
 | :--- | :--- | :--- |
 | **Browser Engine** | <img src="https://img.shields.io/badge/Qt_WebEngine-Chromium-blue?style=flat-square"> | PyQt5 / PySide2 |
 | **Core Logic** | <img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python"> | Standard Libraries |
